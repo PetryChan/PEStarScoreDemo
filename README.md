@@ -7,7 +7,7 @@ iOS星级评分控件
 原理简介:
 一.使用了UIControl控件,点击和滑动事件的监听不用自己搞,自带buff.页面设置五颗星星,就给UIControl添加5个Button.每个button的tag从0开始...
 
-![Snip20190719_17.png](https://upload-images.jianshu.io/upload_images/1520914-e55021edd37cbaaa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![Snip20190719_17.png](https://upload-images.jianshu.io/upload_images/1520914-e55021edd37cbaaa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
 
 二.在以上点击或者拖动相应的回调事件中书写我们的业务逻辑.
 
